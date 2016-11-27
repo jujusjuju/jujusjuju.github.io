@@ -22,10 +22,12 @@ description: A virtual proof that name is awesome!
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-#navbar-links:
-  #About Me: "about"
-  #Resources:
-    #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+navbar-links:
+  About Me: "about"
+  Projects:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  Services:
+    - Office Organization: "services"
     #- Learn markdown: "http://www.markdowntutorial.com/"
     #- GitHub Pages: "https://pages.github.com/"
   #Author's home: "http://deanattali.com"
